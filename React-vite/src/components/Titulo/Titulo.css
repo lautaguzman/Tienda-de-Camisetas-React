@@ -1,0 +1,20 @@
+.Titulo {
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(https://radiofonica.com/wp-content/uploads/2020/12/liga-profesional.jpg);
+}
+
+/* https://images5.alphacoders.com/128/1288612.jpg */
+.Titulo-container {
+  text-align: center;
+  padding: 30% 0;
+}
+
+.Titulo h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-size: 50px;
+}
